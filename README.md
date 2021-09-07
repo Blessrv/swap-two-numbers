@@ -10,7 +10,5 @@ int temp = x;
 x = y;
 y = temp;
 System.out.println(&quot;After swap&quot;);
-System.out.println(&quot;x = &quot; + x);
-System.out.println(&quot;y = &quot; + y);
-}
+System.out.println(&quot;x = &quot; + x
 }
